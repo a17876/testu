@@ -1,7 +1,7 @@
 const { app } = require("../app");
 
 function addTwoPlusTwo() {
-    return 2 + 2;
+    return 2 + 5;
 }
 //added this
 function multiplyTwoNum(num1, num2) {
